@@ -1,0 +1,1244 @@
+{
+   "hits":[
+      {
+         "?id":51,
+         "name":"Half Cup",
+         "description":null,
+         "address":"100-102 Judd St, Kings Cross, London WC1H 9NT, United Kingdom",
+         "city_id":2,
+         "website":"halfcup.co.uk",
+         "instagram_handle":"halfcup_",
+         "instagram_link":"https://www.instagram.com/halfcup_",
+         "review":null,
+         "opens_early":"1",
+         "closes_late":null,
+         "focused_work":null,
+         "relaxed_work":null,
+         "sockets":null,
+         "logo":"https://dl.airtable.com/.attachments/e12f38829c4a3ce7070642dcc6d59980/23f75fac/13187909_1043723742362039_2134198020_a.jpg",
+         "img_ext":null,
+         "img_int":null,
+         "latitude":"51.528020",
+         "longitude":"-0.124546",
+         "objectID":"7164980001",
+         "_highlightResult":{
+            "name":{
+               "value":"Half Cup",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":50,
+         "name":"TY Seven Dials",
+         "description":null,
+         "address":"7 Upper St Martin's Ln, London WC2H 9DL, United Kingdom",
+         "city_id":2,
+         "website":"tyuk.com",
+         "instagram_handle":"timberyarduk",
+         "instagram_link":"https://www.instagram.com/timberyarduk",
+         "review":null,
+         "opens_early":null,
+         "closes_late":null,
+         "focused_work":null,
+         "relaxed_work":null,
+         "sockets":null,
+         "logo":"https://dl.airtable.com/.attachments/57ab8013cfda45ac7729a07231bbf428/a85ad30c/36743244_2402314806661636_7488661460696956928_n.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/ad5ce8d1c8a7991c280c924a48ebe20a/195c5f50",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/a1f3382102f757ea20aceb3883d2eac5/cd55b09d",
+         "latitude":"51.513023",
+         "longitude":"-0.127304",
+         "objectID":"7164979001",
+         "_highlightResult":{
+            "name":{
+               "value":"TY Seven Dials",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":49,
+         "name":"Gale's",
+         "description":null,
+         "address":"33-35 Exmouth Market, Farringdon, London EC1R 4QL, United Kingdom",
+         "city_id":2,
+         "website":"gailsbread.co.uk",
+         "instagram_handle":"gailsbakery",
+         "instagram_link":"https://www.instagram.com/gailsbakery",
+         "review":null,
+         "opens_early":null,
+         "closes_late":null,
+         "focused_work":"1",
+         "relaxed_work":"1",
+         "sockets":"1",
+         "logo":"https://dl.airtable.com/.attachments/6e26ac26dbd5b2ce8db38d9d4bb697f3/25ab2810/69752220_2359530950925187_4691103842085896192_n.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/9f1c62d43e928cf21266f4298ab4f10a/aa567aeb",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/e27076190b92b0279a23c1d1fd313bd2/bead9a39",
+         "latitude":"51.525948",
+         "longitude":"-0.108893",
+         "objectID":"7164978001",
+         "_highlightResult":{
+            "name":{
+               "value":"Gale's",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":48,
+         "name":"Look Mum No Hands!",
+         "description":null,
+         "address":"49 Old St, London EC1V 9HX, United Kingdom",
+         "city_id":2,
+         "website":"lookmumnohands.com",
+         "instagram_handle":"1ookmumnohands",
+         "instagram_link":"https://www.instagram.com/1ookmumnohands",
+         "review":null,
+         "opens_early":null,
+         "closes_late":null,
+         "focused_work":null,
+         "relaxed_work":"1",
+         "sockets":null,
+         "logo":"https://dl.airtable.com/.attachments/2368de9dc59911178920f5df87629ae7/18524818/13562036_620691581413655_441837466_a.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/a5550ee084bd8a5b59744a42d894a5d1/ba1cebf7",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/aca94fd374636ad8adb99e53eb39af37/ae74d1eb",
+         "latitude":"51.524172",
+         "longitude":"-0.096586",
+         "objectID":"7164977001",
+         "_highlightResult":{
+            "name":{
+               "value":"Look Mum No Hands!",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":47,
+         "name":"The CoffeeWorks Project",
+         "description":null,
+         "address":"235 Blackfriars Rd, London SE1 8BF, United Kingdom",
+         "city_id":2,
+         "website":"coffeeworksproject.com",
+         "instagram_handle":"thecoffeeworksproject",
+         "instagram_link":"https://www.instagram.com/thecoffeeworksproject",
+         "review":null,
+         "opens_early":null,
+         "closes_late":null,
+         "focused_work":null,
+         "relaxed_work":null,
+         "sockets":"1",
+         "logo":"https://dl.airtable.com/.attachments/6c6b25ca0f03aa8843c8afe0919da0f9/cdda4e9d/29417162_602678616750052_596408264053227520_n.jpg",
+         "img_ext":null,
+         "img_int":null,
+         "latitude":"51.534324",
+         "longitude":"-0.104490",
+         "objectID":"7164976001",
+         "_highlightResult":{
+            "name":{
+               "value":"The CoffeeWorks Project",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":46,
+         "name":"F Mondays",
+         "description":null,
+         "address":"112A Brixton Hill, London SW2 1AH, United Kingdom",
+         "city_id":2,
+         "website":"fmondayscoffee.com",
+         "instagram_handle":"fmondayscoffee",
+         "instagram_link":"https://www.instagram.com/fmondayscoffee",
+         "review":null,
+         "opens_early":"1",
+         "closes_late":null,
+         "focused_work":null,
+         "relaxed_work":null,
+         "sockets":null,
+         "logo":"https://dl.airtable.com/.attachments/d03ed34a725062a3638ee8774d220da8/58feae72/11123924_726330187495864_591897965_a.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/0b8d16b44e7cd96142bfa790537389a3/84af9f08",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/a4b4b5939216f98be3f5cd9320a2a3ec/5cf98622",
+         "latitude":"51.454074",
+         "longitude":"-0.120246",
+         "objectID":"7164975001",
+         "_highlightResult":{
+            "name":{
+               "value":"F Mondays",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":45,
+         "name":"Harris + Hoole - Fitzrovia",
+         "description":null,
+         "address":"136-138 New Cavendish St, Fitzrovia, London W1W 6YD, United Kingdom",
+         "city_id":2,
+         "website":"harrisandhoole.co.uk",
+         "instagram_handle":"harrisandhoolecoffee",
+         "instagram_link":"https://www.instagram.com/harrisandhoolecoffee",
+         "review":null,
+         "opens_early":"1",
+         "closes_late":"0",
+         "focused_work":null,
+         "relaxed_work":null,
+         "sockets":"1",
+         "logo":"https://dl.airtable.com/.attachments/831eb37bb5b21fa9f81762afe11340c0/fa0488b9/16585375_264268060664612_5895310151014940672_a.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/a48bcb139bedc62a9fc068fd5922f201/c00dba8e",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/23336e3bb73100e62c02709243a69b57/bb63c6c8",
+         "latitude":"51.520622",
+         "longitude":"-0.140498",
+         "objectID":"7164974001",
+         "_highlightResult":{
+            "name":{
+               "value":"Harris + Hoole - Fitzrovia",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":44,
+         "name":"Prufrock Coffee",
+         "description":null,
+         "address":"23-25 Leather Ln, Holborn, London EC1N 7TE, United Kingdom",
+         "city_id":2,
+         "website":"prufrockcoffee.com",
+         "instagram_handle":"prufrockcoffee",
+         "instagram_link":"https://www.instagram.com/prufrockcoffee",
+         "review":null,
+         "opens_early":"1",
+         "closes_late":"0",
+         "focused_work":"0",
+         "relaxed_work":"1",
+         "sockets":null,
+         "logo":"https://dl.airtable.com/.attachments/a861e0c6ad5dd79a6a451f1b6bf1a95c/3a14d1a2/35999187_1148975838574806_373217904809738240_n.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/7241911edf0172a1dd24effabb224f79/641ce7cf",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/e61b56359ede8920cdf0e6b0b9d3c3ba/c3ad9b18",
+         "latitude":"51.520081",
+         "longitude":"-0.109454",
+         "objectID":"7164973001",
+         "_highlightResult":{
+            "name":{
+               "value":"Prufrock Coffee",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":43,
+         "name":"Hanbury Hall",
+         "description":null,
+         "address":"22 Hanbury St, Spitalfields, London E1 6QR, United Kingdom",
+         "city_id":2,
+         "website":"spitalfieldsvenue.org",
+         "instagram_handle":"hanburyhallldn",
+         "instagram_link":"https://www.instagram.com/hanburyhallldn",
+         "review":null,
+         "opens_early":"1",
+         "closes_late":"0",
+         "focused_work":"1",
+         "relaxed_work":"1",
+         "sockets":"1",
+         "logo":"https://dl.airtable.com/.attachments/4548bfb29e99d3f024e4a8bd9b187654/8c777b04/11326135_1519793355002280_1665692632_a.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/070898161bc712d135760c234dbc69fc/770d7310",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/86a733c6aad8d19667346c5aef34169c/3b55f6c4",
+         "latitude":"51.520412",
+         "longitude":" -0.073000",
+         "objectID":"7164972001",
+         "_highlightResult":{
+            "name":{
+               "value":"Hanbury Hall",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":32,
+         "name":"Le Pain Quotidien",
+         "description":"While it is known for being a popular brunch spot, this location has a space in the back and front which allows a nice environment for anyone looking to work here. The wifi is reliable and the natural light coming in makes it lovely to work.",
+         "address":"Avinguda Diagonal, 564, 08021 Barcelona, Spain",
+         "city_id":1,
+         "website":"lepainquotidien.com/us/en",
+         "instagram_handle":"lepainquotidienes",
+         "instagram_link":"https://www.instagram.com/lepainquotidienes",
+         "review":"https://www.instagram.com/p/B445BmbiWHV/",
+         "opens_early":"0",
+         "closes_late":"0",
+         "focused_work":"1",
+         "relaxed_work":"0",
+         "sockets":"0",
+         "logo":"https://dl.airtable.com/.attachments/b568a03ae5c18714b38a591a6174b25c/24890c47/lepain.jpg",
+         "img_ext":"https://dl.airtable.com/.attachments/16036c8b7e26bda95724a1538070b505/72d84cf3/lepainexterior.jpg",
+         "img_int":"https://dl.airtable.com/.attachments/f40cac07dc75fbfaf3af0ea9832485d7/ed806397/lepaininterior.jpg",
+         "latitude":"41.394741",
+         "longitude":"2.150458",
+         "objectID":"7164971001",
+         "_highlightResult":{
+            "name":{
+               "value":"Le Pain Quotidien",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":31,
+         "name":"Satan's Coffee",
+         "description":"A cafe that's central but away from tourists. There's an area for working and an area for groups to chat in the back which makes it a great spot to work for long hours.",
+         "address":"Gran Via de les Corts Catalanes, 700, 08010 Barcelona",
+         "city_id":1,
+         "website":"satanscoffee.com",
+         "instagram_handle":"satanscoffeeco",
+         "instagram_link":"https://www.instagram.com/satanscoffeeco",
+         "review":"https://www.instagram.com/p/B5-a2bXIFX-/",
+         "opens_early":"1",
+         "closes_late":"0",
+         "focused_work":"1",
+         "relaxed_work":"1",
+         "sockets":"1",
+         "logo":"https://dl.airtable.com/.attachments/941d994aa87a5e20aa4de25b25fe4ae9/420511f2/satans.jpg",
+         "img_ext":"https://dl.airtable.com/.attachments/541818c7501434f1c893ee797d07487b/ad51ba62/satansexterior.jpg",
+         "img_int":"https://dl.airtable.com/.attachments/940439d57f2257992847e16bdb6e7354/c1baccf2/satansinterior.jpg",
+         "latitude":"41.393686",
+         "longitude":"2.174465",
+         "objectID":"7164970001",
+         "_highlightResult":{
+            "name":{
+               "value":"Satan's Coffee",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":30,
+         "name":"Black Remedy",
+         "description":"This open space has a dedicated section for those who want to work (with or without a laptop). However their free wifi is limited to 2 hours.",
+         "address":"Carrer de la Ciutat, 5, 08002 Barcelona",
+         "city_id":1,
+         "website":"blackremedy.com",
+         "instagram_handle":"blackremedycoffeebar",
+         "instagram_link":"https://www.instagram.com/blackremedycoffeebar",
+         "review":"https://www.instagram.com/p/B5dHPwIIV22/",
+         "opens_early":"0",
+         "closes_late":"0",
+         "focused_work":"0",
+         "relaxed_work":"1",
+         "sockets":"1",
+         "logo":"https://dl.airtable.com/.attachments/b315fe5e5238559ff9794da780f901ae/9c6ad942/blackremedy.jpg",
+         "img_ext":"https://dl.airtable.com/.attachments/7aa8926526cfe26f5ee07ef0854d0aa3/96238b75/blackremedyexterior.jpg",
+         "img_int":"https://dl.airtable.com/.attachments/ef6c14001c6a07ef51c24c83d43d1df8/40b4f716/blackremedyinterior.jpg",
+         "latitude":"41.382667",
+         "longitude":"2.178050",
+         "objectID":"7164969001",
+         "_highlightResult":{
+            "name":{
+               "value":"Black Remedy",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":29,
+         "name":"Espai Joliu",
+         "description":"A small and intimate cafe with a great selection of coffee and bakery items. There's one large table reserved for whoever wants to work in this space.",
+         "address":"Carrer de Badajoz, 95, 08005 Barcelona, Spain",
+         "city_id":1,
+         "website":"espaijoliu.tumblr.com",
+         "instagram_handle":"espaijoliu",
+         "instagram_link":"https://www.instagram.com/espaijoliu",
+         "review":"https://www.instagram.com/p/B5aOzD5o32S/",
+         "opens_early":"0",
+         "closes_late":"0",
+         "focused_work":"0",
+         "relaxed_work":"1",
+         "sockets":"0",
+         "logo":"https://dl.airtable.com/.attachments/c15bcee77fbab2bc4262ea2d304c9a38/e997939d/espaijoliu.jpg",
+         "img_ext":"https://dl.airtable.com/.attachments/1107587c868428eaaacc50666da6c8ba/d12364d9/joliuexterior.jpg",
+         "img_int":"https://dl.airtable.com/.attachments/fcb87d3bf61ae2db6cb55d7ba5fc5b7f/51d56af8/joliuinterior.jpg",
+         "latitude":"41.398975",
+         "longitude":"2.195059",
+         "objectID":"7164968001",
+         "_highlightResult":{
+            "name":{
+               "value":"Espai Joliu",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":28,
+         "name":"Little Fern",
+         "description":"",
+         "address":"Carrer de Pere IV, 168, 08005 Barcelona",
+         "city_id":1,
+         "website":"littleferncafe.com",
+         "instagram_handle":"littleferncafe",
+         "instagram_link":"https://www.instagram.com/littleferncafe",
+         "review":"",
+         "opens_early":"0",
+         "closes_late":"0",
+         "focused_work":"0",
+         "relaxed_work":"0",
+         "sockets":"0",
+         "logo":"https://dl.airtable.com/.attachments/ff3363c1134fd5746ac2fcd2e493595d/b4cb0be0/littlefern.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/54be13ca70d71ccab3108d08776e5344/10e9f726",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/6d588b0c23477e4dd7bbb0dcbbb24ce3/efaccf7b",
+         "latitude":"41.402521",
+         "longitude":"2.197537",
+         "objectID":"7164967001",
+         "_highlightResult":{
+            "name":{
+               "value":"Little Fern",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":27,
+         "name":"Caffeine BCN",
+         "description":"This is an independent cafeteria in Poblenou with such a lovely atmosphere. Their space is fairly small but there's so much natural light that it feels quite open. ?",
+         "address":"Carrer de Bilbao, 98, 08005 Barcelona",
+         "city_id":1,
+         "website":"facebook.com/caffeinebcn",
+         "instagram_handle":"caffeinebcn",
+         "instagram_link":"https://www.instagram.com/caffeinebcn",
+         "review":"https://www.instagram.com/p/B6RJJf2opca/",
+         "opens_early":"0",
+         "closes_late":"0",
+         "focused_work":"1",
+         "relaxed_work":"1",
+         "sockets":"1",
+         "logo":"https://dl.airtable.com/.attachments/486ccded256b66eb15adff031094d13e/a439c568/caffeinebcn.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/aaba43c8c8cebbcec10d301d496320d2/a3beee70",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/38de7cf6357e624b96e0003db13ea9fc/bce850b0",
+         "latitude":"41.405531",
+         "longitude":"2.200439",
+         "objectID":"7164966001",
+         "_highlightResult":{
+            "name":{
+               "value":"Caffeine BCN",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":26,
+         "name":"Skye Coffee Co",
+         "description":"",
+         "address":"Carrer de Pamplona, 88, 08018 Barcelona",
+         "city_id":1,
+         "website":"skye-coffee.com/HOME.html",
+         "instagram_handle":"skyecoffeeco",
+         "instagram_link":"https://www.instagram.com/skyecoffeeco",
+         "review":"",
+         "opens_early":"0",
+         "closes_late":"0",
+         "focused_work":"0",
+         "relaxed_work":"0",
+         "sockets":"0",
+         "logo":"https://dl.airtable.com/.attachments/6ab5461848ac3e35f912fe9ea0ed1c39/bb98c3c8/SKYEcoffee.jpg",
+         "img_ext":"https://dl.airtable.com/.attachments/320e37136620139464e53f38c8e6ec34/d228ddef/Skyexterior.jpg",
+         "img_int":"https://dl.airtable.com/.attachments/2093ea3e1d99b623e887ab6f33237cda/24551552/Skyinterior.jpg",
+         "latitude":"41.397089",
+         "longitude":"2.191673",
+         "objectID":"7164965001",
+         "_highlightResult":{
+            "name":{
+               "value":"Skye Coffee Co",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":25,
+         "name":"Cafeteria La Impresion",
+         "description":"This cosy cafe is the perfect place for intensive or focused work. Quiet, comfortable and access to big tables and sockets.",
+         "address":"Carrer de Vilamarí, 90, 08015 Barcelona, Spain",
+         "city_id":1,
+         "website":"facebook.com/cafelaimpresionvilamari",
+         "instagram_handle":"la_impresion2015",
+         "instagram_link":"https://www.instagram.com/la_impresion2015",
+         "review":"",
+         "opens_early":"1",
+         "closes_late":"1",
+         "focused_work":"1",
+         "relaxed_work":"0",
+         "sockets":"0",
+         "logo":"https://dl.airtable.com/.attachments/d318925e6a1fe63be449bc4e13ce95d5/a851b9fd/laimpresion.jpg",
+         "img_ext":"https://dl.airtable.com/.attachments/ba23ebbfaa4dfbc3ccec9c6435557ef9/272fd5fe/laimpresionexterior.jpg",
+         "img_int":"https://dl.airtable.com/.attachments/a02757e18dca581cd4a891a76cccbeae/333d73e8/laimpresioninterior.jpg",
+         "latitude":"41.379729",
+         "longitude":"2.149132",
+         "objectID":"7164964001",
+         "_highlightResult":{
+            "name":{
+               "value":"Cafeteria La Impresión",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":24,
+         "name":"Departure Coffee Co",
+         "description":"You'll find a nice ambience in this cafe. But if you come here, come ready with a pair of headphones to block out the noise of the music and people.",
+         "address":"Carrer de la Verge, 1, 08001 Barcelona, Spain",
+         "city_id":1,
+         "website":"facebook.com/departurecoffee",
+         "instagram_handle":"departurecoffeeco",
+         "instagram_link":"https://www.instagram.com/departurecoffeeco",
+         "review":"https://www.instagram.com/p/B5GIOgyIqZJ/",
+         "opens_early":"0",
+         "closes_late":"0",
+         "focused_work":"0",
+         "relaxed_work":"1",
+         "sockets":"1",
+         "logo":"https://dl.airtable.com/.attachments/1e03cc1faa451ce2a3ed3e4d945c2348/27338452/departurecoffee.jpg",
+         "img_ext":"https://dl.airtable.com/.attachments/e3995edddf308557b3682ce746c23872/90c6b3f7/departure-exterior.jpg",
+         "img_int":"https://dl.airtable.com/.attachments/134103a056b5b337a88b54ab69ffde41/6427fb47/departure-interior.jpg",
+         "latitude":"41.383699",
+         "longitude":"2.165039",
+         "objectID":"7164963001",
+         "_highlightResult":{
+            "name":{
+               "value":"Departure Coffee Co",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":23,
+         "name":"Hidden Cafe",
+         "description":"It has a vibrant atmosphere with people coming to hang out, grab and go, do some work or have some lunch. While it's a fairly small space, it's very versatile in the arrangement.?",
+         "address":"C/ Constança esquina Déu i Mata, 08029 Barcelona",
+         "city_id":1,
+         "website":"hiddencafebcn.com",
+         "instagram_handle":"hiddencafebarcelona",
+         "instagram_link":"https://www.instagram.com/hiddencafebarcelona",
+         "review":"https://www.instagram.com/p/B6p-YpCosh_/",
+         "opens_early":"0",
+         "closes_late":"0",
+         "focused_work":"0",
+         "relaxed_work":"1",
+         "sockets":"1",
+         "logo":"https://dl.airtable.com/.attachments/65db8f855cd0be87f48a396479ac3b71/454cd8b9/hiddencafe.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/8665e90e06c61507027e914c7f99a3e7/9a317905",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/d483a9b08d81a4c5029d868e0b8cea79/20bb1cee",
+         "latitude":"41.388530",
+         "longitude":"2.135825",
+         "objectID":"7164962001",
+         "_highlightResult":{
+            "name":{
+               "value":"Hidden Cafe",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":22,
+         "name":"Brooklyn Cafe",
+         "description":"The spacious interior is very comfortable. They have such a calm atmosphere in there even with many people coming in and out to grab a coffee and ready-made poke or sandwiches for lunch.",
+         "address":"Carrer d'Europa, 28, 08028 Barcelona",
+         "city_id":1,
+         "website":"brooklyncafebarcelona.com",
+         "instagram_handle":"brooklyn_cafe_bcn",
+         "instagram_link":"https://www.instagram.com/brooklyn_cafe_bcn",
+         "review":"https://www.instagram.com/p/B6awUxMo9Kw/",
+         "opens_early":"0",
+         "closes_late":"0",
+         "focused_work":"0",
+         "relaxed_work":"0",
+         "sockets":"0",
+         "logo":"https://dl.airtable.com/.attachments/e244771b71d492032df8d5bf9e5397ae/ae4769cb/brooklyncafe.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/6f845693d82dd8a3b343bdc9b7e73a0b/cb865a6d",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/d1aea99a4512a11738bd131c8909f83b/fa630b3e",
+         "latitude":"41.387387",
+         "longitude":"2.130868",
+         "objectID":"7164961001",
+         "_highlightResult":{
+            "name":{
+               "value":"Brooklyn Cafe",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":21,
+         "name":"Cups & Coffee",
+         "description":"This is the definition of a cosy open space. Being enclosed in windows lets so much light into the space and makes it feel so much bigger. It's such a nice place to work in.",
+         "address":"Carrer de Sabino Arana, 6, 08028 Barcelona",
+         "city_id":1,
+         "website":"facebook.com/cupsandcoffeebcn",
+         "instagram_handle":"cupsandcoffeebcn",
+         "instagram_link":"https://www.instagram.com/cupsandcoffeebcn",
+         "review":"https://www.instagram.com/p/B6nVYykIT7j/",
+         "opens_early":"0",
+         "closes_late":"0",
+         "focused_work":"1",
+         "relaxed_work":"0",
+         "sockets":"1",
+         "logo":"https://dl.airtable.com/.attachments/9de6cedaf00860363bf28184c9f7a3d6/fa5b8583/cupsandcoffee.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/4338089fcef3bc1f87add1dd23cdfc6f/30c71f3f",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/9c6e9b57f4560a7b24ea34374824e561/cda7bbff",
+         "latitude":"41.385843",
+         "longitude":"2.126534",
+         "objectID":"7164960001",
+         "_highlightResult":{
+            "name":{
+               "value":"Cups & Coffee",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":20,
+         "name":"People Cafe",
+         "description":"They're located on Gran Via just seconds away from Metro Urgell. You'll see less tourists and more locals sitting out with their laptops which makes it an ideal spot for some focused working time. The space stretches out to the back and they have a small mezzanine near the front with great natural light",
+         "address":"Gran Via de les Corts Catalanes, 511, 08015 Barcelona",
+         "city_id":1,
+         "website":"peoplelove.coffee",
+         "instagram_handle":"peoplelove.coffee",
+         "instagram_link":"https://www.instagram.com/peoplelove.coffee",
+         "review":"https://www.instagram.com/p/B5sW97zIDeQ/",
+         "opens_early":"0",
+         "closes_late":"0",
+         "focused_work":"1",
+         "relaxed_work":"0",
+         "sockets":"0",
+         "logo":"https://dl.airtable.com/.attachments/19df7840c68ccd0b473698588f40584a/d2a6a5db/peoplecafe.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/e0be881cb63b8aada09dad01eb0b5201/2ff53c62",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/ba64672efcc49c7e6a64074e7575bc60/682a7523",
+         "latitude":"41.381870",
+         "longitude":"2.157619",
+         "objectID":"7164959001",
+         "_highlightResult":{
+            "name":{
+               "value":"People Cafe",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":19,
+         "name":"Perluo Cafe",
+         "description":"",
+         "address":"Carrer de Casp, 41, 08010 Barcelona",
+         "city_id":1,
+         "website":"perluocafe.com",
+         "instagram_handle":"perluo_cafe",
+         "instagram_link":"https://www.instagram.com/perluo_cafe",
+         "review":"https://www.instagram.com/p/B65yR_dI0hj/",
+         "opens_early":"0",
+         "closes_late":"0",
+         "focused_work":"0",
+         "relaxed_work":"1",
+         "sockets":"1",
+         "logo":"https://dl.airtable.com/.attachments/0ae753fc108a30a205ac873df299c23b/df806cb9/perluocafe.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/76790c2f38be9bf6963345432fa6cc0f/9be2dcbe",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/0577f2dd4ed18b962524e038124e47a9/4957198e",
+         "latitude":"41.392174",
+         "longitude":"2.173845",
+         "objectID":"7164958001",
+         "_highlightResult":{
+            "name":{
+               "value":"Perluo Cafe",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":18,
+         "name":"Madness Coffee",
+         "description":"It's right by The World Trade Center so it's not a very touristic area. It has a big open space with different seating options to choose from.",
+         "address":"Moll de Barcelona, s/n Terminal Norte local, 08039 Barcelona",
+         "city_id":1,
+         "website":"madnesscoffeebarcelona.com",
+         "instagram_handle":"madnessbarcelona",
+         "instagram_link":"https://www.instagram.com/madnessbarcelona",
+         "review":"https://www.instagram.com/p/B52wBR1IlZr/",
+         "opens_early":"1",
+         "closes_late":"0",
+         "focused_work":"1",
+         "relaxed_work":"0",
+         "sockets":"1",
+         "logo":"https://dl.airtable.com/.attachments/b4c37e4a9bcc7a7e061c0ae98504b2eb/60b45d78/madnesscafe.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/0784488a5713ed45c55c9f3586b1e1f0/f20f7599",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/aa419e60522cf0710c0debb7f955bcc6/0b6df3db",
+         "latitude":"41.372459",
+         "longitude":"2.180904",
+         "objectID":"7164957001",
+         "_highlightResult":{
+            "name":{
+               "value":"Madness Coffee",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":17,
+         "name":"Frenesi Cafe",
+         "description":"",
+         "address":"Carrer del Comte d'Urgell, 115, 08011 Barcelona",
+         "city_id":1,
+         "website":"frenesicafe.com",
+         "instagram_handle":"frenesicafe",
+         "instagram_link":"https://www.instagram.com/frenesicafe",
+         "review":"",
+         "opens_early":"0",
+         "closes_late":"0",
+         "focused_work":"1",
+         "relaxed_work":"0",
+         "sockets":"1",
+         "logo":"https://dl.airtable.com/.attachments/2da202d1ce1fbd1aeeeea83ec0152543/2f70490c/frenesicafe.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/3cc4a4f19ca28591a38ba3a51df57d78/9f601a6c",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/298ee8b919db45c1e068fa4b0a490d04/2e1180fe",
+         "latitude":"41.385043",
+         "longitude":"2.154975",
+         "objectID":"7164956001",
+         "_highlightResult":{
+            "name":{
+               "value":"Frenesi Cafe",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":16,
+         "name":"Robot House Barcelona",
+         "description":"",
+         "address":"Carrer de Provença, 316, 08037 Barcelona",
+         "city_id":1,
+         "website":"robothousebcn.com",
+         "instagram_handle":"robothousebarcelona",
+         "instagram_link":"https://www.instagram.com/robothousebarcelona",
+         "review":"https://www.instagram.com/p/B626yAuIted/",
+         "opens_early":"1",
+         "closes_late":"0",
+         "focused_work":"1",
+         "relaxed_work":"0",
+         "sockets":"1",
+         "logo":"https://dl.airtable.com/.attachments/9a9d1e962c58e560b912b108a52d3f5b/9ea2ac02/robothouse.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/0f315ef5d67ee3aa07465488705280c9/a4e3eaf1",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/e43e4f8197c621dbec07fc5568db71e7/bdf08560",
+         "latitude":"41.396358",
+         "longitude":"2.163895",
+         "objectID":"7164955001",
+         "_highlightResult":{
+            "name":{
+               "value":"Robot House Barcelona",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":15,
+         "name":"Eroica Caffe",
+         "description":"",
+         "address":"Carrer del Consell de Cent, 350, 08009 Barcelona",
+         "city_id":1,
+         "website":"eroicacaffebcn.com",
+         "instagram_handle":"eroicacaffebcn",
+         "instagram_link":"https://www.instagram.com/eroicacaffebcn",
+         "review":"",
+         "opens_early":"0",
+         "closes_late":"0",
+         "focused_work":"0",
+         "relaxed_work":"0",
+         "sockets":"0",
+         "logo":"https://dl.airtable.com/.attachments/91545ad9ff2683ddae4fbb4b8fdcac47/5595a8d8/eroicacaffe.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/4fa74ff9f64a6d9989542bdb347558e6/34fb0a13",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/587e29df94bb2be71848f9e50484845b/bf024d8e",
+         "latitude":"41.393834",
+         "longitude":"2.169153",
+         "objectID":"7164954001",
+         "_highlightResult":{
+            "name":{
+               "value":"Eroica Caffe",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":14,
+         "name":"Morning Glory Coffee & Brunch",
+         "description":"",
+         "address":"Carrer de la Riereta, 15, 08001 Barcelona",
+         "city_id":1,
+         "website":"facebook.com/Morning-Glory-Coffee-Brunch-541818709567145",
+         "instagram_handle":"morningglorybcn",
+         "instagram_link":"https://www.instagram.com/morningglorybcn",
+         "review":"",
+         "opens_early":"0",
+         "closes_late":"0",
+         "focused_work":"0",
+         "relaxed_work":"0",
+         "sockets":"0",
+         "logo":"https://dl.airtable.com/.attachments/1aa7409430c4cdc88b00f993f0939dac/2e69620b/morningglory.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/8aa4ef119cc21bcaebd92788ca828664/4a1d7bbc",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/4566c4efd8059ed153089ed769bc3a63/9d15dc22",
+         "latitude":"41.378677",
+         "longitude":"2.168075",
+         "objectID":"7164953001",
+         "_highlightResult":{
+            "name":{
+               "value":"Morning Glory Coffee & Brunch",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":13,
+         "name":"Juice Dudes Barcelona",
+         "description":"",
+         "address":"Avinguda Meridiana, 1, 08018 Barcelona",
+         "city_id":1,
+         "website":"juicedudes.es",
+         "instagram_handle":"juicedudesbcn",
+         "instagram_link":"https://www.instagram.com/juicedudesbcn",
+         "review":"",
+         "opens_early":"0",
+         "closes_late":"0",
+         "focused_work":"0",
+         "relaxed_work":"0",
+         "sockets":"0",
+         "logo":"https://dl.airtable.com/.attachments/7dc274e5222436cdf8cbcfa2b3fcd910/32924b1a/juicedudes.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/de84470121ad2f86243eea52d0f4bb2b/b37e312d",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/935e8c6d6f53cb26d3cff673eb527d7e/e44f45e1",
+         "latitude":"41.392226",
+         "longitude":"2.186613",
+         "objectID":"7164952001",
+         "_highlightResult":{
+            "name":{
+               "value":"Juice Dudes Barcelona",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":12,
+         "name":"Orval Barcelona",
+         "description":"",
+         "address":"Carrer de Buenaventura Muñoz, 31, 08018 Barcelona",
+         "city_id":1,
+         "website":"whereplantsmeet.coffee",
+         "instagram_handle":"orval.barcelona",
+         "instagram_link":"https://www.instagram.com/orval.barcelona",
+         "review":"",
+         "opens_early":"0",
+         "closes_late":"0",
+         "focused_work":"0",
+         "relaxed_work":"0",
+         "sockets":"0",
+         "logo":"https://dl.airtable.com/.attachments/b9130e3db29f96d29b0a9f8ae7dcd37b/f70d863a/orval.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/c6892440202ef6d8a11658f082229933/3a7a5411",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/60d1693e0d4723e62b278b548ff17cab/553b0483",
+         "latitude":"41.392637",
+         "longitude":"2.185862",
+         "objectID":"7164951001",
+         "_highlightResult":{
+            "name":{
+               "value":"Orval Barcelona",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":11,
+         "name":"Rustico",
+         "description":"While it's located very central in the city, it's surprisingly very calm inside as many people sit out on the terrace so you can sit indoors and get on with work!",
+         "address":"Carrer de Rera Palau, 9, 08003 Barcelona",
+         "city_id":1,
+         "website":"facebook.com/rusticoborn",
+         "instagram_handle":"rusticoborn",
+         "instagram_link":"https://www.instagram.com/rusticoborn",
+         "review":"",
+         "opens_early":"1",
+         "closes_late":"1",
+         "focused_work":"1",
+         "relaxed_work":"0",
+         "sockets":"1",
+         "logo":"https://dl.airtable.com/.attachments/07f819eb16e5dfd294ffeb0c38bde0b8/d29968a5/rustico.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/ba787b9d896d640766c094753f34e6b3/360c33b9",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/c5b840aa8dc865d92c17c53edebc708a/11d64332",
+         "latitude":"41.384053",
+         "longitude":"2.183828",
+         "objectID":"7164950001",
+         "_highlightResult":{
+            "name":{
+               "value":"Rustico",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":9,
+         "name":"Granja Petitbo",
+         "description":"",
+         "address":"Passeig de Sant Joan, 82, 08009 Barcelona",
+         "city_id":1,
+         "website":"granjapetitbo.com",
+         "instagram_handle":"granjapetitbo",
+         "instagram_link":"https://www.instagram.com/granjapetitbo",
+         "review":"",
+         "opens_early":"0",
+         "closes_late":"0",
+         "focused_work":"0",
+         "relaxed_work":"0",
+         "sockets":"0",
+         "logo":"https://dl.airtable.com/.attachments/f0da16cfe052e9933fbb8cf750737b13/f19314d6/granjapetitbo.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/4d2cb7f883678b27c9f6cf4dfd030813/25c2066a",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/0180f4d8101fd255ae6722715b2419e9/84a1c63e",
+         "latitude":"41.397695",
+         "longitude":"2.172842",
+         "objectID":"7164949001",
+         "_highlightResult":{
+            "name":{
+               "value":"Granja Petitbo",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":8,
+         "name":"La Cherry Coffee",
+         "description":"",
+         "address":"Carrer de Morales, 27, 08029 Barcelona",
+         "city_id":1,
+         "website":"lacherrycoffee.com",
+         "instagram_handle":"lacherry.coffee",
+         "instagram_link":"https://www.instagram.com/lacherry.coffee",
+         "review":"",
+         "opens_early":"0",
+         "closes_late":"0",
+         "focused_work":"0",
+         "relaxed_work":"0",
+         "sockets":"0",
+         "logo":"https://dl.airtable.com/.attachments/61b678a5e37145834a05c499ea564768/96ba5571/lacherrycoffee.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/dbfd5681224c360688a93a377fa17762/f1b4e9dd",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/0a65fdc2ae1bd4ddbedb2168d548c7f0/5efa086e",
+         "latitude":"41.388583",
+         "longitude":"2.140593",
+         "objectID":"7164948001",
+         "_highlightResult":{
+            "name":{
+               "value":"La Cherry Coffee",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":7,
+         "name":"Cactus Cafe",
+         "description":"",
+         "address":"Carrer de Blasco de Garay, 10, 08004 Barcelona",
+         "city_id":1,
+         "website":"facebook.com/cactuscafe.bcn",
+         "instagram_handle":"cactuscafe.bcn",
+         "instagram_link":"https://www.instagram.com/cactuscafe.bcn",
+         "review":"",
+         "opens_early":"0",
+         "closes_late":"0",
+         "focused_work":"0",
+         "relaxed_work":"0",
+         "sockets":"0",
+         "logo":"https://dl.airtable.com/.attachments/a1d3edd4c3134f39a65dd3cd5d00bbbf/15af2208/cactuscafe.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/3aa033354d23d65764631e39cc13d348/c99be7f2",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/13461a22181c0515ee36fa74aabec13a/fec4e20c",
+         "latitude":"41.374638",
+         "longitude":"2.163036",
+         "objectID":"7164947001",
+         "_highlightResult":{
+            "name":{
+               "value":"Cactus Cafe",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":6,
+         "name":"Morrow Coffee",
+         "description":"While their space is fairly small, the large windows letting in all the natural light makes it feel very open. They space is on a corner so they have a window table that wraps around the front and two large high tables that are ideal for working on.",
+         "address":"Av. Gran Vía de les Corts Catalanes 403 Barcelona, Spain, 08015 Barcelona",
+         "city_id":1,
+         "website":"morrowcoffee.com",
+         "instagram_handle":"morrowcoffee",
+         "instagram_link":"https://www.instagram.com/morrowcoffee",
+         "review":"https://www.instagram.com/p/B7G0pD7ogN5/",
+         "opens_early":"1",
+         "closes_late":"0",
+         "focused_work":"0",
+         "relaxed_work":"1",
+         "sockets":"1",
+         "logo":"https://dl.airtable.com/.attachments/a9c257ab1ce058beaa46287631d3b3e9/b7cd27ec/morrowcoffee.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/e3ebafe929e43b612c5b4a5084db5e7d/335c9447",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/7a880b0f788845348d70b1aeb37c8c5a/a5d5da00",
+         "latitude":"41.377414",
+         "longitude":"2.151262",
+         "objectID":"7164946001",
+         "_highlightResult":{
+            "name":{
+               "value":"Morrow Coffee",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":5,
+         "name":"FabCafe",
+         "description":"This is an open, spacious cafe in the front with a co-working space in the back. You can choose to work inside in the quieter periods or outside if it's a bit busier.",
+         "address":"Carrer de Bailèn, 11, 08010 Barcelona, Spain",
+         "city_id":1,
+         "website":"fabcafe.com",
+         "instagram_handle":"fabcafebcn",
+         "instagram_link":"https://www.instagram.com/fabcafebcn",
+         "review":"https://www.instagram.com/p/B5A5JLeIbg4/",
+         "opens_early":"0",
+         "closes_late":"0",
+         "focused_work":"0",
+         "relaxed_work":"1",
+         "sockets":"1",
+         "logo":"https://dl.airtable.com/.attachments/ac8c6f6af6d743ade58d21f98c90bf43/fda8daa4/fabcafe.jpg",
+         "img_ext":"https://dl.airtable.com/.attachments/b89e87772b343a75f4feb11b872a665d/a449015c/FabCafe-exterior.jpg",
+         "img_int":"https://dl.airtable.com/.attachments/77ecae55ba0263e0f2da787535b79684/0a2c3534/FabCafe-interior.jpg",
+         "latitude":"41.392062",
+         "longitude":"2.177756",
+         "objectID":"7164945001",
+         "_highlightResult":{
+            "name":{
+               "value":"FabCafe",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":4,
+         "name":"Somewhere Cafe",
+         "description":"Somewhere Cafe is more than a brunch spot. The space is nice and open with different sized tables to choose from.",
+         "address":"Carrer d'Aragó, 310, 08009 Barcelona",
+         "city_id":1,
+         "website":"somewherecafe.com",
+         "instagram_handle":"somewherecafe",
+         "instagram_link":"https://www.instagram.com/somewherecafe",
+         "review":"",
+         "opens_early":"1",
+         "closes_late":"0",
+         "focused_work":"1",
+         "relaxed_work":"1",
+         "sockets":"1",
+         "logo":"https://dl.airtable.com/.attachments/a663a445d8727a413cbd5a82bccaf136/5f157802/45474513_411030832767156_1762649316943462400_n.jpg",
+         "img_ext":"https://dl.airtable.com/.attachmentThumbnails/611a4d4955ca14485f9eb6e76697581d/65433c4b",
+         "img_int":"https://dl.airtable.com/.attachmentThumbnails/68448c8a1cd8d97c0fc6e046de02d527/6a30eda8",
+         "latitude":"41.394800",
+         "longitude":"2.168407",
+         "objectID":"7164944001",
+         "_highlightResult":{
+            "name":{
+               "value":"Somewhere Cafe",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":3,
+         "name":"Federal Cafe",
+         "description":"A popular brunch spot for tourists but with a large table for anyone wanting to work. Outlets are readily availble and you're able to stay as long as you like when ordering.",
+         "address":"Carrer del Parlament, 39, 08015 Barcelona, Spain",
+         "city_id":1,
+         "website":"federalcafe.es/barcelona",
+         "instagram_handle":"thefederalcafe",
+         "instagram_link":"https://www.instagram.com/thefederalcafe",
+         "review":"",
+         "opens_early":"1",
+         "closes_late":"1",
+         "focused_work":"0",
+         "relaxed_work":"1",
+         "sockets":"0",
+         "logo":"https://dl.airtable.com/.attachments/d4299460bf67a376ea6f0fd059868db7/0c2d385e/56749588_425511768252895_6887873158930497536_n.jpg",
+         "img_ext":"https://dl.airtable.com/.attachments/0eb1d78d17b49b78e3dc1c69bc560cf4/18aed2b6/federalexterior.jpg",
+         "img_int":"https://dl.airtable.com/.attachments/8bab9fd21ac6abfc467509f0e3a283e0/1473ca41/federalinterior.jpg",
+         "latitude":"41.376958",
+         "longitude":"2.162768",
+         "objectID":"7164943001",
+         "_highlightResult":{
+            "name":{
+               "value":"Federal Cafe",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":2,
+         "name":"Sweetaly",
+         "description":"A cosy cafe-gelateria hybrid with comfortable chairs, good sized tables for your notebooks, laptop and coffee!",
+         "address":"Ronda de Sant Pau, 39, 08015 Barcelona, Spain",
+         "city_id":1,
+         "website":"sweetalygelato.com",
+         "instagram_handle":"sweetalysolceitalia",
+         "instagram_link":"https://www.instagram.com/sweetalysolceitalia",
+         "review":"",
+         "opens_early":"0",
+         "closes_late":"0",
+         "focused_work":"0",
+         "relaxed_work":"1",
+         "sockets":"1",
+         "logo":"https://dl.airtable.com/.attachments/d17f90f761ba6c546bbde579ef10f8b5/a6c57b09/19534548_1448829755183421_1678775511959994368_n.jpg",
+         "img_ext":"https://dl.airtable.com/.attachments/d829acce7d404843b024155c75b446e0/3bb96dc3/sweetalyexterior.jpg",
+         "img_int":"https://dl.airtable.com/.attachments/4da88015d379dc49f5433dfb259431c5/75156ed2/sweetalyinterior.jpg",
+         "latitude":"41.376805",
+         "longitude":"2.165676",
+         "objectID":"7164942001",
+         "_highlightResult":{
+            "name":{
+               "value":"Sweetaly",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "?id":1,
+         "name":"Delabuela",
+         "description":"A cosy, apartment-like cafe/restaurant that's quiet during the days. A range of chairs, tables and sofas to choose from, you can find a comfortable spot next to a power outlet and a nice beverage.",
+         "address":"Carrer del Comte Borrell, 8, 08015 Barcelona, Spain",
+         "city_id":1,
+         "website":"facebook.com/delabuelabcn",
+         "instagram_handle":"delabuelabcn",
+         "instagram_link":"https://www.instagram.com/delabuelabcn",
+         "review":"https://www.instagram.com/p/B47svhsowPV/",
+         "opens_early":"0",
+         "closes_late":"1",
+         "focused_work":"1",
+         "relaxed_work":"0",
+         "sockets":"1",
+         "logo":"https://dl.airtable.com/.attachments/6def4ec01289d86c8ac8ee46f0eec3a2/3acd397f/18646138_794324560732474_2556254209754267648_a.jpg",
+         "img_ext":"https://dl.airtable.com/.attachments/623cf106abd1516dfb196e73bbdd6302/684a8cad/delabuelaexterior.jpg",
+         "img_int":"https://dl.airtable.com/.attachments/95552d671240ad51ab4e9d3f0e7a5335/a4d2d780/Delabuelainterior.jpg",
+         "latitude":"41.375975",
+         "longitude":"2.164925",
+         "objectID":"71649411",
+         "_highlightResult":{
+            "name":{
+               "value":"Delabuela",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      }
+   ]
+}

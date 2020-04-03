@@ -1,0 +1,18 @@
+<hr>
+<%= for tag <- @tags do %>
+  <a href="<%= Routes.page_path(@conn, :index, tag) %>">
+    See all <strong><%= tag %></strong> cafes
+  </a>
+  <br>
+<% end %>
+<hr>
+<p>Found <%= Enum.count(@cafes) %> cafes, current tag: <%= @current_tag %></p>
+<div class="cafe-list">
+<%= for cafe <- @cafes do %>
+  <div class="cafe">
+    <img src="<%= cafe.image %>" alt="">
+    <br>
+    <p><%= cafe.name %></p>
+  </div>
+<% end %>
+</div>
