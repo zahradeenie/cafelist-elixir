@@ -11,6 +11,9 @@ File.read!("priv/cafes.json")
     end
 
   cafe =
+    end
+
+  cafe =
     %Cafelist.Cafe{
       image: cafe["logo"],
       images: [],
