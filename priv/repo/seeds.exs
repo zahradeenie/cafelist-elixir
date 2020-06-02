@@ -15,6 +15,7 @@ File.read!("priv/cafes.json")
       image: cafe["logo"],
       images: [],
       name: cafe["name"],
+      description: cafe["description"],
       tags: [city]
     }
 

@@ -12,7 +12,8 @@
   <div class="cafe">
     <img src="<%= cafe.image %>" alt="">
     <br>
-    <p><%= cafe.name %></p>
+    <h4><%= cafe.name %></h4>
+    <p><%= cafe.description %></p>
   </div>
 <% end %>
 </div>

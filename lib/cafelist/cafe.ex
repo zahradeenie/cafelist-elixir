@@ -6,6 +6,7 @@ defmodule Cafelist.Cafe do
     field :image, :string
     field :images, {:array, :string}
     field :name, :string
+    field :description, :string
     field :tags, {:array, :string}
 
     timestamps()
