@@ -1,5 +1,7 @@
 # Cafelist
 
+This isn't the real cafelist project built with Elixir - this was a mini demo to show me how I could use Elixir to build my Cafelist project. I'm currently working on Cafelist V2 in Elixir which is currently on a private repo.
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
